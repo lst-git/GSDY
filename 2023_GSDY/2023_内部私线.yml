@@ -1,12 +1,10 @@
-#A🐯学长专线 半年🔽 ⏩
+#内部信息🔽 ⏩
 
 # https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif
 
 # https://gitlab.com/LSTTB/qt/-/raw/main/QT/2022_08.bak
 
 #   
-#   {🇨🐯学长专线🔽}   客户专用   
-#   如果看到当前文件/请不要修改 这需要一系列设置并导致出错
 #----------------------------------------#
 port: 7890
 socks-port: 7891
@@ -68,7 +66,6 @@ proxies:
 - { name: "IPV6_学长专线🔽🇺🇸_US1", type: vmess, server: 	ipv6.lst2022c.xyz, port: 26937, uuid: 91aab36a-4e16-491c-9faa-8dff41bb6aff, alterId: 0, cipher: auto }
 
 - { name: "IPV6_学长专线🔽🇺🇸_US2", type: vmess, server: ipv6.l2021a.top, port: 16233, uuid: aae76d5a-3d33-5cfb-a8fc-2eab701ddda5, alterId: 0, cipher: auto }
-
 
 
 
